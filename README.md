@@ -8,7 +8,7 @@ Domine o TypeScript, um superset de Javascript mantida pela Microsoft. TypeScrip
 - Typescrypt
 - React
 - NodeJS
-- Data Banck
+- Express
 
 ### Repositório destinado às resoluções das atividades realizadas na plataforma do curso para hospedar os projetos desenvolvidos.
 
