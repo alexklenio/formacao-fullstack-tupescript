@@ -1,6 +1,6 @@
 # FORMAÇÃO FULLSTACK TYPESCRIPT | DIO 
 
-### **Formação Fullstack:** Na formação Fullstack o aluno aprenderá como desenvolver arquiteturas de servidor, que interagem com aplicações web, de aplicações cliente servidor, assim como a insterface gráfica para o projeto.
+### **Formação Fullstack:** Na formação Fullstack o aluno aprenderá como desenvolver arquiteturas de servidor, que interagem com aplicações web, de aplicações cliente para servidor, assim como a insterface gráfica para os projetos.
 
 # Diciplinas
 
@@ -9,7 +9,7 @@
 - NodeJS
 - Data Banck
 
-### Repositório destinado às resoluções das atividades realizadas na plataforma do curso para hospedar os projetos desenvolvidos.
+### Repositório destinado às resoluções das atividades realizadas na plataforma do curso e para hospedar os projetos desenvolvidos.
 
 
 <div align="center">
