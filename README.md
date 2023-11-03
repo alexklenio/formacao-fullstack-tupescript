@@ -16,7 +16,7 @@
   <p>
       <img src="https://img.shields.io/github/languages/count/alexklenio/formacao-fullstack-typescript"/>
       <img src="https://img.shields.io/github/repo-size/alexklenio/formacao-fullstack-typescript"/>
-      <img src="https://img.shields.io/github/last-commit//alexklenio/formacao-fullstack-typescript"/>
-      <img src="https://img.shields.io/github/issues//alexklenio/formacao-fullstack-typescript"/>
+      <img src="https://img.shields.io/github/last-commit/alexklenio/formacao-fullstack-typescript"/>
+      <img src="https://img.shields.io/github/issues/alexklenio/formacao-fullstack-typescript"/>
   </p> 
 </div>
