@@ -3,7 +3,6 @@ import { CompanyAccount } from "./class/CompanyAccount"
 import { AccountPlus } from "./class/AccountPlus"
 
 const peopleAccount: PeopleAccount = new PeopleAccount(382, 'Alex Lopes', 1)
-
 console.log(peopleAccount)
 peopleAccount.deposit(50)
 console.log(peopleAccount)
