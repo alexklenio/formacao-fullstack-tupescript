@@ -1,5 +1,5 @@
 
- # **FORMAÇÃO FULLSTACK TYPESCRIPT | DIO** 
+<img align="right" src="https://raw.githubusercontent.com/alexklenio/formacao-fullstack-typescript/main/imagens/Sem%20t%C3%ADtulo-1.png" width=""/>   ---
  
 <img align="right" src="https://hermes.dio.me/courses/badge/4a9df070-9d2e-4f21-877d-a8eb5d2328b5.png" width="200"/>
 
